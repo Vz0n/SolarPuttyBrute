@@ -1,5 +1,5 @@
 # SolarPuTTYBrute (Fork of SolarPuttyDecrypt)
-A post-exploitation/forensics tool to decrypt SolarPuTTY's sessions files (Now with a option to use a wordlist for bruteforce purposes)
+A post-exploitation/forensics tool to decrypt SolarPuTTY's sessions files (Now with an option to use a wordlist for bruteforce purposes)
 
 I changed stuff on the code to make the program work better and also added an option to use a wordlist to bruteforce the password. Here is an run with that:
 
